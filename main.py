@@ -1,10 +1,10 @@
 fix_map = {
-    "Þ": "S",
-    "þ": "s",
-    "Ý": "i",
+    "Þ": "Ş",
+    "þ": "ş",
+    "Ý": "İ",
     "ý": "ı",
-    "Ð": "g",
-    "ð": "g"
+    "Ð": "Ğ",
+    "ð": "ğ"
 }
 
 with open("duzenlenecek_srt.txt", "r", encoding="utf-8", errors="ignore") as f:
